@@ -1,0 +1,13 @@
+{
+  "appId": "com.obdscanner.app",
+  "appName": "OBD Scanner",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
